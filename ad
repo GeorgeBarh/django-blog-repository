@@ -1,0 +1,17 @@
+                     List of relations
+ Schema |            Name            | Type  |    Owner     
+--------+----------------------------+-------+--------------
+ public | auth_group                 | table | neondb_owner
+ public | auth_group_permissions     | table | neondb_owner
+ public | auth_permission            | table | neondb_owner
+ public | auth_user                  | table | neondb_owner
+ public | auth_user_groups           | table | neondb_owner
+ public | auth_user_user_permissions | table | neondb_owner
+ public | blog_comment               | table | neondb_owner
+ public | blog_post                  | table | neondb_owner
+ public | django_admin_log           | table | neondb_owner
+ public | django_content_type        | table | neondb_owner
+ public | django_migrations          | table | neondb_owner
+ public | django_session             | table | neondb_owner
+(12 rows)
+
