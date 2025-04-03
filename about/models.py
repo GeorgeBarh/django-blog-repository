@@ -8,6 +8,6 @@ class About(models.Model):
     updated_on = models.DateTimeField(auto_now=True)
 
     class Meta: 
-        orderding = ["created_on"]
+        ordering = ["created_on"]
 
     
